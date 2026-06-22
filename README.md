@@ -1,2 +1,2 @@
 # Python
-code for pthon
+Code forPyton
